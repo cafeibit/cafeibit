@@ -1,9 +1,13 @@
 - 👋 Hi, I’m @cafeibit
 - 👀 I’m interested and working on Data Engineering, Data AI/ML and Coding more.
 - 🌱 I’m currently chasing the certifications as data engineer from Microsoft, Google and Amazon more.
-      * <a href="./Hadoop-Spark-Data-Engineering">Hadoop & Spark Data Engineering</a>
-      * <a href="./Azure-Data-Engineering">Azure Data Engineering</a>
+- 
+      * <a href="https://github.com/cafeibit/Hadoop-Spark-Data-Engineering">Hadoop & Spark Data Engineering</a>
+      
+      * <a href="https://github.com/cafeibit/Azure-Data-Engineering">Azure Data Engineering</a>
+      
       * BlockChain SCM
+      
 - 💞️ All materials here is just for personal learning and using.
 - 📫 How to reach me - cafeibit@gmail.com and ccd_cafe@outlook.com.
 
