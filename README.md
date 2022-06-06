@@ -1,4 +1,4 @@
-## Hi, this is @cafeibit
+## Hi, this is Lei Guo as @cafeibit.
 
 I’m interested and working on Data Engineering, Data AI/ML and Coding more.
 
