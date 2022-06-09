@@ -8,7 +8,7 @@ You can find more about from below:
 <a href="https://github.com/cafeibit/Hadoop-Spark-Data-Engineering">Hadoop & Spark Data Engineering</a> , <a href="https://github.com/cafeibit/Azure-Data-Engineering">Azure Data Engineering</a>, and Hyperledge BlockChain for Supply Chain Management.
       
 - 💞️ All materials here is just for personal learning and using.
-- 📫 How to reach me - ccd_cafe@outlook.com and https://www.linkedin.com/in/leiguo-dataengineer/.
+- 📫 How to reach me - cafeibit@gmail.com and https://www.linkedin.com/in/leiguo-dataengineer/.
 
 <!---
 cafeibit/cafeibit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
