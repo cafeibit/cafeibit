@@ -1,8 +1,6 @@
 ## Hi, this is Lei Guo as @cafeibit.
 
-I’m interested and working on Data Engineering, Data AI/ML and Coding more.
-
-As Microsoft Certified Azure Data Engineer and I'm now chasing AWS/Google certifications about data engineering more.
+I’m interested and working on Cloud and Data Engineering especially in MLOps.
 
 You can find more about from below:
 <a href="https://github.com/cafeibit/Hadoop-Spark-Data-Engineering">Hadoop & Spark Data Engineering</a> , <a href="https://github.com/cafeibit/Azure-Data-Engineering">Azure Data Engineering</a>, and Hyperledge BlockChain for Supply Chain Management.
