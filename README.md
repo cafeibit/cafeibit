@@ -2,8 +2,8 @@
 
 I’m interested and working on Cloud and Data Engineering especially in LLMOps.
 
-You can find more about from below:
-<a href="https://github.com/cafeibit/Hadoop-Spark-Data-Engineering">Hadoop & Spark Data Engineering</a> , <a href="https://github.com/cafeibit/Azure-Data-Engineering">Azure Data Engineering</a>, and Hyperledge BlockChain for Supply Chain Management.
+You can find more about LLMOps from below:
+<a href="https://github.com/cafeibit/databricks-gpt">LLMOps Examples</a>.
       
 - 💞️ All materials here is just for personal learning and using.
 - 📫 How to reach me - cafeibit@gmail.com and https://www.linkedin.com/in/leiguo-dataengineer/.
