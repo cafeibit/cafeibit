@@ -1,6 +1,6 @@
-## Hi, this is Lei Guo as @cafeibit.
+## Hi, this is Lei as @cafeibit.
 
-I’m interested and working on Cloud and Data Engineering especially in LLMOps.
+I’m interested and working as data engineer in the Cloud - Azure, GCP and AWS focused on DataOps/MLOps/LLMOps.
 
 You can find more about LLMOps from below:
 <a href="https://github.com/cafeibit/databricks-gpt">LLMOps Examples</a>.
